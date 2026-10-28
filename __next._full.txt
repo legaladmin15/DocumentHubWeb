@@ -1,0 +1,39 @@
+1:"$Sreact.fragment"
+2:"/DocumentHubWeb/_next/static/chunks/0t8qv-pwvh1uq.js"
+3:"/DocumentHubWeb/_next/static/chunks/0er9dc_qscrpf.js"
+4:"/DocumentHubWeb/_next/static/chunks/3co5fdzeumma-.js"
+5:"/DocumentHubWeb/_next/static/chunks/035iva93-05lh.js"
+6:"/DocumentHubWeb/_next/static/chunks/02mo4os4eilpo.js"
+7:I[71007,["$2","$3","$4","$5","$6"],"AppProviders"]
+8:I[39756,["$2","$3","$4","$5","$6"],"default"]
+9:I[37457,["$2","$3","$4","$5","$6"],"default"]
+a:"/DocumentHubWeb/_next/static/chunks/3y6c4b2u8ok-6.js"
+b:"/DocumentHubWeb/_next/static/chunks/0pmxhmaxvia5x.js"
+c:I[36768,["$2","$3","$4","$5","$6","$a","$b"],"default"]
+e:I[47257,["$2","$3","$4","$5","$6"],"ClientPageRoot"]
+f:"/DocumentHubWeb/_next/static/chunks/43zmykxkf8phm.js"
+10:I[31713,["$2","$3","$4","$5","$6","$f"],"default"]
+13:I[97367,["$2","$3","$4","$5","$6"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[97367,["$2","$3","$4","$5","$6"],"$16"]
+19:"MetadataBoundary"
+1a:I[97367,["$2","$3","$4","$5","$6"],"$19"]
+1c:I[68027,["$2","$3","$4","$5","$6"],"default",1]
+:HL["/DocumentHubWeb/_next/static/chunks/1kgz5jlgug1w2.css","style"]
+:HL["/DocumentHubWeb/_next/static/media/25d341d5876d8ede-s.p.2wu4yy186g04j.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/DocumentHubWeb/_next/static/media/6ac706d910f2bd04-s.p.25pbmqxk8u2s7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/DocumentHubWeb/_next/static/media/6bf0d8dd0c866b9f-s.p.10uaeld2xxvpt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/DocumentHubWeb/_next/static/media/77d9a04c69f7b11b-s.p.1uklb5el4zgvl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/DocumentHubWeb/_next/static/media/7f1976624c2b6255-s.p.1hvvd1t-trplq.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/DocumentHubWeb/_next/static/media/83940f62350fcaa7-s.p.13y-iz2lazqtb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/DocumentHubWeb/_next/static/media/b4fb5dfe9580f890-s.p.1zvg0ggiaivzo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/DocumentHubWeb/_next/static/media/dd018b41519c2d93-s.p.2g-0we2o5_ngd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+d:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Le",null,{"Component":"$10","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@11","$@12"]}}],[["$","script","script-0",{"src":"/DocumentHubWeb/_next/static/chunks/43zmykxkf8phm.js","async":true,"nonce":"$undefined"}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":false,"v":null}}]]
+0:{"P":null,"c":["",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/DocumentHubWeb/_next/static/chunks/1kgz5jlgug1w2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/DocumentHubWeb/_next/static/chunks/0t8qv-pwvh1uq.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/DocumentHubWeb/_next/static/chunks/0er9dc_qscrpf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/DocumentHubWeb/_next/static/chunks/3co5fdzeumma-.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/DocumentHubWeb/_next/static/chunks/035iva93-05lh.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/DocumentHubWeb/_next/static/chunks/02mo4os4eilpo.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"I_7mzW_variable","children":["$","body",null,{"className":"min-h-screen font-sans","children":["$","$L7",null,{"children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$Lc",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$L18"}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":"$L1b"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1c",[["$","link","0",{"rel":"stylesheet","href":"/DocumentHubWeb/_next/static/chunks/1kgz5jlgug1w2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"tO9JH2VPRykefe9y6UuMa"}
+11:{}
+12:"$d:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1d:I[27201,["$2","$3","$4","$5","$6"],"IconMark"]
+15:null
+1b:[["$","title","0",{"children":"DocumentHUB"}],["$","meta","1",{"name":"description","content":"DocumentHUB — tiếp nhận, lưu trữ và trả hồ sơ"}],["$","meta","2",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}],["$","link","4",{"rel":"icon","href":"/DocumentHubWeb/icon.svg?icon.0qtlzq2pvf6l-.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1d","5",{}]]
